@@ -1,4 +1,4 @@
-# FOR EDUCATIONNAL PURPOSE ONLY !
+# FOR EDUCATIONNAL PURPOSE ONLY !
 
 Usage :
 1. Clone this repo 
